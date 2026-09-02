@@ -23,7 +23,7 @@
 
 ## 설치
 
-[Skills CLI](https://skills.sh/)를 사용한다면 저장소가 공개된 뒤 프로젝트에 설치할 수 있습니다.
+[Skills CLI](https://skills.sh/)를 사용하면 프로젝트에 설치할 수 있습니다.
 
 ```bash
 npx skills add sungjunlee/reader-first-korean
@@ -35,7 +35,7 @@ npx skills add sungjunlee/reader-first-korean
 npx skills add sungjunlee/reader-first-korean -g
 ```
 
-또는 저장소를 복제한 뒤 `reader-first-korean` 디렉터리 전체를 사용하는 에이전트의 스킬 디렉터리에 복사하거나 심볼릭 링크로 연결합니다. 스킬 디렉터리 위치는 런타임 설정에 따라 다릅니다.
+또는 저장소를 복제한 뒤 `reader-first-korean` 디렉터리 전체를 사용하는 에이전트의 스킬 디렉터리에 복사하거나 심볼릭 링크로 연결합니다. Codex에서는 프로젝트의 `.agents/skills/reader-first-korean`이나 사용자 전역의 `~/.agents/skills/reader-first-korean`을 사용할 수 있습니다. 다른 런타임의 스킬 디렉터리 위치는 해당 런타임의 설정을 따릅니다.
 
 ## 사용
 

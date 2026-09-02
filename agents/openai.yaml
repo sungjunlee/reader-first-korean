@@ -1,4 +1,4 @@
 interface:
   display_name: "독자 우선 한국어"
   short_description: "뜻과 목소리를 지키는 한국어 실용 글 작성·윤문·검토"
-  default_prompt: "$reader-first-korean을 사용해 요청에 맞게 한국어 실용 글을 작성·윤문·검토해 주세요."
+  default_prompt: "$reader-first-korean 스킬을 사용해 요청에 맞게 한국어 실용 글을 작성·윤문·검토해 주세요."
